@@ -1,0 +1,23 @@
+export const products = [
+    { id: 1, name: "iPhone 15 Pro", price: 1500 },
+    { id: 2, name: "Samsung Galaxy S24", price: 1200 },
+    { id: 3, name: "Google Pixel 9", price: 1000 },
+    { id: 4, name: "OnePlus 12", price: 950 },
+    { id: 5, name: "MacBook Air M3", price: 1800 },
+    { id: 6, name: "MacBook Pro 16", price: 2500 },
+    { id: 7, name: "Dell XPS 15", price: 2000 },
+    { id: 8, name: "Asus ROG Laptop", price: 2200 },
+    { id: 9, name: "iPad Air 6", price: 850 },
+    { id: 10, name: "iPad Pro 13", price: 1300 },
+    { id: 11, name: "Apple Watch Ultra 2", price: 900 },
+    { id: 12, name: "Samsung Watch 6", price: 450 },
+    { id: 13, name: "Sony Headphones WH-1000XM5", price: 350 },
+    { id: 14, name: "Bose QC 45", price: 330 },
+    { id: 15, name: "Canon EOS R6 Camera", price: 2700 },
+    { id: 16, name: "Nikon Z7 II", price: 2600 },
+    { id: 17, name: "PlayStation 5", price: 600 },
+    { id: 18, name: "Xbox Series X", price: 550 },
+    { id: 19, name: "Nintendo Switch OLED", price: 400 },
+    { id: 20, name: "GoPro Hero 12", price: 500 },
+  ];
+  

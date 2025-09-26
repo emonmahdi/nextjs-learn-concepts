@@ -7,3 +7,6 @@
 - Fetching Data
 - Static and Dynamic Rendering
 - Streaming
+- Partial Prerendering
+- Adding Search and Pagination
+- Mutating Data
