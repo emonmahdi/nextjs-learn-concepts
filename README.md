@@ -2,3 +2,6 @@
 - Css styles
 - Optimizing fonts and images
 - Creating Layouts and Pages
+- Navigating between pages
+- Setting up your Database
+- Fetching Data
