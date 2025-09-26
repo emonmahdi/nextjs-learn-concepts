@@ -5,3 +5,5 @@
 - Navigating between pages
 - Setting up your Database
 - Fetching Data
+- Static and Dynamic Rendering
+- Streaming
