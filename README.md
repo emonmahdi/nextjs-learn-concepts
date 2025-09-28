@@ -10,3 +10,5 @@
 - Partial Prerendering
 - Adding Search and Pagination
 - Mutating Data 
+- Handling Errors
+- Improving Accessibility
